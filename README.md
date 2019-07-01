@@ -19,17 +19,17 @@ In: Journal on Software and Systems Modeling (SoSyM), Volume 7, Issue 4, pp. 443
 Alexandre Petrenko, 
 **Toward testing from finite state machines with symbolic inputs and outputs**, 
 In: Journal on Software and Systems Modeling (SoSyM), doi: 10.1007/s10270-017-0613-x, Springer. 2017.
-Certificate-Cremona	
+Certificate-Cremona	[Request PDF](https://www.researchgate.net/publication/318892165_Toward_testing_from_finite_state_machines_with_symbolic_inputs_and_outputs)
 
 Fabio Cremona, Marten Lohstroh, David Broman, Edward A. Lee, Michael Masin, Stavros Tripakis,
 **Hybrid co-simulation: it's about time**, 
 In: Journal on Software and Systems Modeling (SoSyM), doi: 10.1007/s10270-017-0633-6, Springer. 2017.
-Certificate-Ross	
-
+Certificate-Ross	[PDF](https://www.researchgate.net/publication/328088655_Hybrid_Co-simulation_It's_About_Time)
+ 
 Hugo Bruneliere, Erik Burger, Jordi Cabot, Manuel Wimmer, 
 **A feature-based survey of model view approaches**
 In: Journal on Software and Systems Modeling (SoSyM), doi: 10.1007/s10270-017-0622-9, Springer. 2017.
-Certificate-Voelter	
+Certificate-Voelter	[PDF](https://www.researchgate.net/publication/328088765_A_Feature-based_Survey_of_Model_View_Approaches)
 
 Markus Voelter, Bernd Kolb, Klaus Birken, Federico Tomassetti, Patrick Alff, Laurent Wiart, Andreas Wortmann, Arne Nordmann
 **Using language workbenches and domain-specific languages for safety-critical software development**, 
