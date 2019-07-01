@@ -11,3 +11,10 @@ Best Student Paper Award
 
 Best Poster Award
 [An Approach for Workflow Improvement based on Outcome and Time Remaining Prediction](http://dx.doi.org/10.5220/0007577504730480)
+
+## SoSyM Awards
+
+2018 The ten year most influential regular paper award
+**Reducing accidental complexity in domain models**
+In: Journal on Software and Systems Modeling (SoSyM), Volume 7, Issue 3, pp. 345-359, Springer, July 2008.
+[PDF](https://www.researchgate.net/publication/225173448_Reducing_accidental_complexity_in_domain_models) 
