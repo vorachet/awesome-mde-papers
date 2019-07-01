@@ -29,7 +29,7 @@ Certificate-Ross	[PDF](https://www.researchgate.net/publication/328088655_Hybrid
 Hugo Bruneliere, Erik Burger, Jordi Cabot, Manuel Wimmer, 
 **A feature-based survey of model view approaches**
 In: Journal on Software and Systems Modeling (SoSyM), doi: 10.1007/s10270-017-0622-9, Springer. 2017.
-Certificate-Voelter	[PDF](https://www.researchgate.net/publication/328088765_A_Feature-based_Survey_of_Model_View_Approaches)
+Certificate-Voelter	[PDF](https://hal.inria.fr/hal-01590674/document)
 
 Markus Voelter, Bernd Kolb, Klaus Birken, Federico Tomassetti, Patrick Alff, Laurent Wiart, Andreas Wortmann, Arne Nordmann
 **Using language workbenches and domain-specific languages for safety-critical software development**, 
