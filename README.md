@@ -1,6 +1,12 @@
 # awesome-mde-papers
 A curated lis of famous and outstanding model-driven engineering papers. This will help you produce timely manuscripts of interest to a large audience.
 
+# ([CrossRef](https://innovate.ieee.org/ieee-journals-continue-to-excel-in-citation-rankings/?LT=XPLHL_XPL_6.2019_LM_Journals_Citation_Rankings)) Top IEEE journals by Impact Factor - Computer Science—Information Systems
+1. [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739)
+2. [IEEE Wireless Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)
+3. [IEEE Internet of Things Journal](http://ieee-iotj.org/)
+4. [IEEE Network](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=65) 
+5. [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 
 ## SoSyM Awards
 
