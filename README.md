@@ -1,5 +1,5 @@
 # awesome-mde-papers
-A curated lis of famous and outstanding model-driven engineering papers
+A curated lis of famous and outstanding model-driven engineering papers. This will help you produce timely manuscripts of interest to a large audience.
 
 
 ## SoSyM Awards
